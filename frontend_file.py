@@ -4,7 +4,7 @@ import requests
  # Change this URL to the one of your API
 API_URL = "https://my-api-app-726569711154.europe-west1.run.app/"
 
-st.title("My awesome MVP")
+st.title("My awesome MVP v2")
 
 st.write("Iris predictor")
 
